@@ -1,0 +1,52 @@
+body {
+background-color: rgb(219, 203, 234);
+font: white;
+}
+ .header {
+    text-align: center;
+    font-size: 59px;
+    color: white;
+}
+p {
+    color: rgb(219, 203, 234);
+}
+
+h1 {
+    color:rgb(219, 203, 234);
+    align-items: center;
+
+}
+h3 {
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 70%;
+    text-align: center;
+}
+
+    .input-group-append {
+        background-color: rgb(219, 203, 234);
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    
+    
+}
+
+.city-name {
+    font-size: 30px;
+    color: rgb(219, 203, 234);
+    font: bold;
+}
+
+.row   {
+    border-style: solid 5px;
+    border: rgb(219, 203, 234);
+}
